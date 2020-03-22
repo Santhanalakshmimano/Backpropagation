@@ -1,9 +1,10 @@
 #Basic C++ implementation of Backpropagation
+
 #Backpropagation.cpp 
-Compile Backpropagation.cpp file using the command:
-    g++ -std=c++11 Backpropagation.cpp -o obj
-Run obj executable
-    gdb ./obj
+1. Compile Backpropagation.cpp file using the command:
+        g++ -std=c++11 Backpropagation.cpp -o obj
+2. Run obj executable
+        gdb ./obj
     
 #Random_selection.cpp
   Compile this cpp file to get train, test and validation files.
