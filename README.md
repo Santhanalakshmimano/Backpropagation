@@ -12,7 +12,7 @@
 ## **Input**
 Train_data/Irisdata.txt 
 Source: https://archive.ics.uci.edu/ml/datasets/iris
-#Label is in separate file 
+## **Label is in separate file** 
 Train_data/Whole_label.txt
 
 ## **Note:** 
